@@ -8,3 +8,4 @@ riderModule.iml
 .vscode
 Tests/TestResults/**
 _exported_templates/*
+*.DotSettings.user
